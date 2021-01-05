@@ -1,0 +1,5 @@
+include ':ViewModelAnnotationLib'
+include ':app'
+include ':ViewModelAnnotation'
+include ':ViewModelAnnotationProcessor'
+rootProject.name = "AptSample"
